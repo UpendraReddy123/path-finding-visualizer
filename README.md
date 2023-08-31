@@ -32,7 +32,7 @@ This is the result after executing a maze generation algorithm and path-finding 
 Pretty much the same as the standard react application, so all the usual react-scripts are available to your disposal. So, over here I restricted myself to the instructions to only the essentials.
 ## 1. Clone the repository or download the zip
 ```
-git clone https://github.com/Sethuram52001/Path-Finding-Visualizer.git
+git clone https://github.com/UpendraReddy123/Path-Finding-Visualizer.git
 ```
 
 ## 2. Install the dependencies
